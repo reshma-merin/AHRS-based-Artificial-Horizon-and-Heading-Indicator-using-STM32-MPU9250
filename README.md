@@ -66,4 +66,4 @@ Built on top of the quaternion AHRS library and approach originally developed by
 
 ## Author
 
-Reshma Merin Thomas — CpE 187, Embedded Systems Design
+Reshma Merin Thomas 
