@@ -1,0 +1,14 @@
+../Core/Src/mpu9255.c:81:9:MPU9255_Init	40	static
+../Core/Src/mpu9255.c:123:6:readAll	64	static
+../Core/Src/mpu9255.c:217:6:getMres	4	static
+../Core/Src/mpu9255.c:231:6:getGres	4	static
+../Core/Src/mpu9255.c:252:6:getAres	4	static
+../Core/Src/mpu9255.c:274:6:readAccelData	40	static
+../Core/Src/mpu9255.c:290:6:readGyroData	40	static
+../Core/Src/mpu9255.c:305:6:readMagData	48	static
+../Core/Src/mpu9255.c:329:6:initAK8963	48	static
+../Core/Src/mpu9255.c:376:6:calibrateMag	88	static
+../Core/Src/mpu9255.c:423:6:initMPU9250	40	static
+../Core/Src/mpu9255.c:477:6:calibrateMPU9250	152	static
+../Core/Src/mpu9255.c:680:6:MPU9250SelfTest	208	static
+../Core/Src/mpu9255.c:802:6:QuaternionUpdate	208	static
